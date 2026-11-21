@@ -1,0 +1,7 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Índices de los documentos de los RAG Agents (caché, se regenera)
+.index/
